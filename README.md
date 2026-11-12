@@ -6,6 +6,19 @@
 
 UrbanNa aims to simplify and accelerate the process of reporting and resolving urban infrastructure issues by creating a centralized platform where citizens can easily document problems while providing officials with the data needed to make informed decisions about resource allocation. Specifically, the system helps users identify and report issues like potholes, broken streetlights, fallen trees, and other urban infrastructure problems, track the status of their reports, and visualize problem patterns across their community.
 
+## Team 👥
+
+UrbanNa was built by a team of six at the University of Washington in Spring 2025 (April to June 2025).
+
+- [darrock712](https://github.com/darrock712) (Darrick Nguyen; commits from this period appear under [darrock7](https://github.com/darrock7))
+- [jeanchoe](https://github.com/jeanchoe)
+- [Nandini393](https://github.com/Nandini393)
+- [hotchiler](https://github.com/hotchiler)
+- [akim-cs](https://github.com/akim-cs)
+- [BirdKim](https://github.com/BirdKim)
+
+This repository is a full-history copy of the original team repository, [darrock7/UrbanNa](https://github.com/darrock7/UrbanNa). Every commit keeps its original author and date.
+
 ## Technical Approach 💻
 1. Frontend: A cross-platform framework (e.g., Flutter) in order to reach more users
 2. Backend: Node.js with Express
